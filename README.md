@@ -1,2 +1,2 @@
 # cozystorm-wiki
-Public wiki &amp; knowledge base of CozyStorm
+Публичное Wiki &amp; база знаний CozyStorm
